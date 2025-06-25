@@ -11,20 +11,21 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm a self-taught web developer passionate about building modern, responsive web apps.
-- 💻 I love working with **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, and **React.js**.
-- 🛠️ Currently learning **Node.js** and backend development.
-- 🎨 Interested in **UI/UX Design** and making visually appealing interfaces.
+- 🎓 Self-taught developer passionate about building dynamic and user-friendly web applications.
+- 💻 Skilled in **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, and **React.js**.
+- 🔌 Experienced in **REST APIs** like **Movie Search API**, **Crypto APIs**, and more.
+- 🛠️ Learning backend development using **Node.js**.
+- 🎨 Focused on **UI/UX design** for clean and responsive interfaces.
 
 ---
 
 ### 🧰 Tech Stack
 
-- 💻 HTML | CSS | JavaScript  
-- ⚛️ React.js | Tailwind CSS  
-- 🌐 Git | GitHub | VS Code  
-- 🛠️ Node.js (Beginner)  
-- 🎨 Figma (UI/UX Basics)
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- **Backend (Learning):** Node.js  
+- **APIs:** RESTful APIs, Movie Search API, Crypto APIs  
+- **Tools:** Git, GitHub, VS Code  
+- **Design:** Figma (UI/UX Basics)
 
 ---
 
@@ -43,16 +44,16 @@
 
 ---
 
-### 🗂️ Featured Projects
+### 🌟 Featured Projects
 
-Here are a few projects I’ve worked on recently:
+Here are some projects I've worked on:
 
-- ✅ **Portfolio Website** – Built with HTML, CSS, JS, and Tailwind  
-- 💸 **Expense Tracker (React + Recharts)** – Coming soon...  
-- 🔄 **Crypto Price Tracker** – Live market data using public APIs  
+- 🔹 **Portfolio Website** – Built using HTML, CSS, JS, Tailwind  
+- 🎬 **Movie Search App** – React app using public movie APIs for real-time search  
+- 💹 **Crypto Price Tracker** – Live price updates using a crypto market API  
+- 💸 **Expense Tracker (React + Recharts)** – Tracks expenses with visual charts  
+- ⏳ More exciting projects coming soon...
 
 ---
 
-Thanks for visiting my profile! 🙌  
-Feel free to ⭐️ my repositories if you find them helpful.
-
+Thanks for visiting! Feel free to ⭐️ my repos and connect with me!
