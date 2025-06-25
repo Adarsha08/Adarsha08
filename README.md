@@ -1,6 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Adarsha Gautam</h1>
 <h3 align="center">Frontend Developer | React Enthusiast | UI/UX Learner</h3>
 
+<div align="right">
+  <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="Fullstack Developer GIF" width="300" />
+</div>
+
 <p align="center">
   <a href="https://adarsha08.github.io/Portfolio-/home" target="_blank">
     🌐 View My Portfolio
@@ -45,8 +49,6 @@
 ---
 
 ### 🌟 Featured Projects
-
-Here are some projects I've worked on:
 
 - 🔹 **Portfolio Website** – Built using HTML, CSS, JS, Tailwind  
 - 🎬 **Movie Search App** – React app using public movie APIs for real-time search  
