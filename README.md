@@ -1,14 +1,23 @@
 <h1 align="center">Hi there 👋, I'm Adarsha Gautam</h1>
 <h3 align="center">Frontend Developer | React Enthusiast | UI/UX Learner</h3>
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="Fullstack Developer GIF" width="300" />
-</div>
+<table>
+  <tr>
+    <td width="60%">
+      <p>Hi, I'm <strong>Adarsha Gautam</strong>, a Computer Science and Information Technology (BSc. CSIT) student at <strong>Samriddhi College</strong>, expected to graduate in 2026.</p>
+      <p>I'm a passionate <strong>Frontend Developer</strong> dedicated to building sleek, modern, and responsive websites. My goal is to create visually appealing and user-friendly web experiences.</p>
+      <p>My expertise lies in <strong>React, JavaScript, HTML, and CSS</strong>, with proficiency in <strong>Tailwind CSS</strong> for crafting responsive, mobile-friendly designs.</p>
+      <p>I enjoy merging creativity with technical skills to develop engaging digital experiences.</p>
+      <p>Currently focused on <strong>modern UI/UX design principles</strong> and exploring <strong>animation libraries</strong> to improve interactivity.</p>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="Fullstack Developer GIF" width="300" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://adarsha08.github.io/Portfolio-/home" target="_blank">
-    🌐 View My Portfolio
-  </a>
+  <a href="https://adarsha08.github.io/Portfolio-/home" target="_blank">🌐 View My Portfolio</a>
 </p>
 
 ---
