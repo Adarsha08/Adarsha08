@@ -17,7 +17,7 @@
 </table>
 
 <p align="center">
-  <a href="https://adarsha08.github.io/Portfolio-/home" target="_blank">🌐 View My Portfolio</a>
+  <a href="https://adarshaporfolio08.netlify.app/#/home" target="_blank">🌐 View My Portfolio</a>
 </p>
 
 ---
