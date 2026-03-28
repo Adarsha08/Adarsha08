@@ -16,9 +16,9 @@
   </tr>
 </table>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://adarshaporfolio08.netlify.app/#/home" target="_blank">🌐 View My Portfolio</a>
-</p>
+</p> -->
 
 ---
 
